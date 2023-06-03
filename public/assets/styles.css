@@ -1,0 +1,27 @@
+.hide {
+  display: none;
+}
+
+.questions-container ul {
+  padding-left: 0;
+}
+
+.questions-container li,
+input {
+  margin-right: 2px;
+}
+
+.true-false label {
+  margin-right: 50px;
+}
+
+.questions-container li {
+  list-style: none;
+}
+
+.modal-content {
+  height: 60vh;
+  width: 60vh;
+  display: flex;
+  justify-content: center;
+}
